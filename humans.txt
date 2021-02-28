@@ -5,23 +5,15 @@
                             
 /* AUTHOR */  
 
-	Web designer/developer: Rubens Franco.                            
-	Contact: francomile@gmail.com                            
+	Web Developer and Designer: Rubens Franco.
+	Contact: https://keybase.io/francomile
 	Twitter: @rubensfranco.
-	Dribbble: http://dribbble.com/rubensfranco
+	Linkedin: https://www.linkedin.com/in/rubens-franco-b8356842
 
 
 /* SITE */
 
-	Last update: 16/05/2013 
+	Last update: 16/05/2013
 	Standards: HTML5, CSS3, Responsive Web Design.
 	Components: jQuery, Foudation Zurb, Modernizr, Normalize.
 	Software: SublimeText 2, Textmate, Compass App, Filezilla, Photoshop.
-	Hardware: Imac, HP Elitebook 8560w.
-
-
-/* THANKS */
-
-	Name: Katia, my beautifull wife, and Pedro, my little son.
-	Twitter: @KATIASAURA 
-	Website: http://www.lasmunecasrusased.com 
