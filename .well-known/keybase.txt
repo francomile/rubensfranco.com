@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/francomile
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://rubens-franco.com
+  * I am francomile (https://keybase.io/francomile) on keybase.
+  * I have a public key ASBv2KxwgTd6cgQgv8JCy_IFGIqS3HDnvAEQ8v5Aw1EcFwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01206fd8ac7081377a720420bfc242cbf205188a92dc70e7bc0110f2fe40c3511c170a",
+      "host": "keybase.io",
+      "kid": "01206fd8ac7081377a720420bfc242cbf205188a92dc70e7bc0110f2fe40c3511c170a",
+      "uid": "f02c45d9cef8edc76b50d930e5f28719",
+      "username": "francomile"
+    },
+    "merkle_root": {
+      "ctime": 1614286284,
+      "hash": "2ca48bd504db4a19f75fb3c3d4f32e5fbd9c66065cc5e5f7676846cd778dd4ba26599d6acf9e369fbf7512c496c07c9f105003d78d6e3a3f1623a974e58c02d3",
+      "hash_meta": "8461a86c7749ba2d718e0b4554b6c95cfa1b941e68c3a6c9430866a171850810",
+      "seqno": 19223232
+    },
+    "service": {
+      "entropy": "3whhA1rDAmZLqhyoePA+QyMO",
+      "hostname": "rubens-franco.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.2"
+  },
+  "ctime": 1614286337,
+  "expire_in": 504576000,
+  "prev": "8ce092d5d34ac128bdb111d5ed53fc1f1e8ead1fda6b0a46d959450256687baf",
+  "seqno": 15,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgb9iscIE3enIEIL/CQsvyBRiKktxw57wBEPL+QMNRHBcKp3BheWxvYWTESpcCD8QgjOCS1dNKwSi9sRHV7VP8Hx6OrR/aawpG2VlFAlZoe6/EIDX1kE4Li8/44Qysj21uN5izO5yoGs1WDh6Kmzt5vyD0AgHCo3NpZ8RAI9PMgZDhp9fRp6L0WJM/FQ8X6P2jsdm0mSgxIaNiNOb/fcRfL5kC24BZQqkrUUawbCW3i5K2RtohCc5EMCV5DqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIOb36GZVQYoZ3bhTmmt20Hs420bP8DQtjWlJlH4WD1Vdo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/francomile
+
+==================================================================
