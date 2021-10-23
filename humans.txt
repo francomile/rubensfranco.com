@@ -1,5 +1,3 @@
-
-
 /* humanstxt.org */
 
                             
@@ -7,7 +5,6 @@
 
 	Web Developer and Designer: Rubens Franco.
 	Contact: https://keybase.io/francomile
-	Twitter: @rubensfranco.
 	Linkedin: https://www.linkedin.com/in/rubens-franco-b8356842
 
 
