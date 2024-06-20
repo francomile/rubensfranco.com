@@ -1,7 +1,7 @@
 /* humanstxt.org */
 
-                            
-/* AUTHOR */  
+
+/* AUTHOR */
 
 	Web Developer and Designer: Rubens Franco.
 	Contact: https://keybase.io/francomile
@@ -10,7 +10,7 @@
 
 /* SITE */
 
-	Last update: 16/05/2013
+	Last update: 20/06/2023
 	Standards: HTML5, CSS3, Responsive Web Design.
 	Components: jQuery, Foudation Zurb, Modernizr, Normalize.
-	Software: SublimeText 2, Textmate, Compass App, Filezilla, Photoshop.
+	Software: Visual Studio Code.
