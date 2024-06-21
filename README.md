@@ -1,3 +1,3 @@
-# Personal website files
+# Personal website
 
 https://rubensfranco.com
